@@ -5,8 +5,8 @@ package collections;
  * in a movie collection. Each movie object has a title (string),
  * genre (string), rating (int), and year (int).
  *
- * @author Megan Rigsbee
- * @version 2015.02.18
+ * @author Anthony Merlin
+ * @version 20
  */
 public abstract class MovieADT
 {
