@@ -3,8 +3,8 @@ package collections;
 /**
  * MovieCollection represents a database of Movie objects.
  *
- * @author Megan Rigsbee, Xin Chen
- * @version 2015.02.17, 2015.06.15
+ * @author Anthony Merlin 
+ * @version 2022.09.08
  */
 public interface MovieCollection
 {
