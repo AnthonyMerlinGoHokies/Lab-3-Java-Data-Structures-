@@ -6,7 +6,7 @@ import java.util.NoSuchElementException;
  * A simple representation of Netflix's database.
  *
  * @author Anthony Merlin
- * @version 2022.09.08, 2015.06.15
+ * @version 2022.09.08
  */
 public class NetvidsDatabase implements MovieCollection
 {
